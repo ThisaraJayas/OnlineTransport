@@ -18,6 +18,7 @@
 		<label class="logo">RideMate</label>
 		<ul>
 			<li><a href="#">Homes</a></li>
+<li><a href="#">Homes</a></li>
 			<li><a href="#">Schedule</a></li>
 			<li><a href="#">Packages</a></li>
 			<li><a href="#">Contact</a></li>
